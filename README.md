@@ -12,7 +12,7 @@
 ### Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/pallavi anapati" target="_blank">
+  <a href="http://www.linkedin.com/in/pallavi-anapati" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:anapatipallavi@gmail.com">
